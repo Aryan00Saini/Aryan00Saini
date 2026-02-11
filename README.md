@@ -44,10 +44,6 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan00Saini&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
----
-
-<div align="center">
-
 ### 🤝 Let's Chat!
 Whether it's about a project collaboration, a bug you can't squash, or just to talk about the latest in ML—my inbox is always open.
 
