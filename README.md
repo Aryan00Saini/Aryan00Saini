@@ -37,11 +37,12 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Profile Summary
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan00Saini&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan00Saini&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan00Saini&theme=radical" alt="profile details" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan00Saini&theme=radical&utcOffset=8" alt="productive time" />
 </div>
 
 ### 🤝 Let's Chat!
