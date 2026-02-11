@@ -30,12 +30,18 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 ### 📈 My Digital Footprint
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan00Saini&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aryan's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aryan00Saini&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan00Saini&layout=compact&theme=dark&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan00Saini&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
----
+
 
 ### 🏆 Beyond the Code
 * **Problem Solving:** I spend a lot of time on DSA—ask me why I still prefer C++ for competitive programming!
