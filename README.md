@@ -19,9 +19,6 @@
 
 *I don't just write code; I build solutions that make sense (and hopefully make lives easier).*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-saini-894979343/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansaini98765@gmail.com)
-
 ---
 
 </div>
@@ -55,8 +52,6 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan00Saini&theme=radical&hide_border=true" alt="GitHub Streak" />
   
   <br/>
-  
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=true" alt="Dev Quote" />
 </div>
 
 ### 🤝 Let's Chat!
