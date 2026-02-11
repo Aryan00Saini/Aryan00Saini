@@ -3,7 +3,19 @@
 # ⚡ Welcome to my Digital Workspace!
 
 ### Hi, I'm Aryan! 👋
-**Computer Science Student @ Graphic Era Hill University**
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CS+Student+@+GEHU;Building+Real+World+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-saini-894979343/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansaini98765@gmail.com)
+
+</div>
+
+---
 
 *I don't just write code; I build solutions that make sense (and hopefully make lives easier).*
 
@@ -37,16 +49,14 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 
 ---
 
-### 🏆 Achievements & Streaks
+### 🏆 Stats & Vibes
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan00Saini&theme=radical&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aryan00Saini&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=true" alt="Dev Quote" />
 </div>
 
 ### 🤝 Let's Chat!
