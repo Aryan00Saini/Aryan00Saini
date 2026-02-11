@@ -1,26 +1,52 @@
-# Hi there, I'm Aryan! 👋
+# ⚡ Welcome to my Digital Workspace! 
 
-I am a **Computer Science & Engineering** student at Graphic Era Hill University (Class of 2027) with a passion for building scalable web applications and exploring the world of Machine Learning.
+Hi! I'm **Aryan**, a Computer Science student at Graphic Era Hill University. I don't just write code; I build solutions that make sense (and hopefully make lives easier). 
 
-### 🚀 What I’m working on:
-* 🔭 **Full Stack Online Examination System:** Currently developing a robust platform for digital assessments.
-* 📦 **Warehouse Optimization:** Building an inventory management system to streamline logistics.
-* 🧠 **ML Enthusiast:** Recently completed an **Oracle Cloud Infrastructure (OCI) AI** certification.
+Currently, I'm deep-diving into **Full Stack Development** and **Machine Learning**, while navigating my way through a B.Tech degree.
 
-### 🛠️ Tech Stack:
-* **Languages:** C++, Java, JavaScript, Python
-* **Web Development:** React.js, Node.js, Express, MongoDB (MERN Stack)
-* **Machine Learning:** Scikit-Learn, NLP, Facial Recognition (OpenCV)
-* **Tools:** Git, GitHub, Docker, Oracle Cloud (OCI)
+---
 
-### 📈 GitHub Stats:
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+### 🛠️ What’s on my desk right now?
 
-### 📫 Let's Connect:
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
-* 💬 Ask me about: Web Dev, ML projects, or why C++ is my go-to for DSA!
+* **Building:** A Full Stack Online Examination System (making testing less stressful, one line at a time).
+* **Optimizing:** Working on a Warehouse & Inventory system to solve real-world logistics headaches.
+* **Learning:** Currently exploring the depths of Oracle Cloud (OCI) and AI.
+* **Goal:** Gearing up for the Amazon SDE Internship drive! 🚀
+
+---
+
+### 🧪 My Tech Laboratory
+
+| Category | Tools of Choice |
+| :--- | :--- |
+| **Frontend** | React.js, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express, MongoDB |
+| **Languages** | C++, Java, Python, JavaScript |
+| **AI/ML** | Scikit-Learn, NLP, OpenCV |
+| **Cloud/DevOps** | Oracle Cloud (OCI), Git, Docker |
+
+---
+
+### 📊 A Peek into my GitHub Life
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dracula&hide_border=true" height="150" />
+</p>
+
+---
+
+### 🏆 Beyond the Code
+* **Problem Solving:** I spend a lot of time on DSA—ask me why I still prefer C++ for competitive programming!
+* **Certified:** Proud owner of an Oracle OCI AI/Cloud Certification.
+
+---
+
+### 🤝 Let's Chat!
+Whether it's about a project collaboration, a bug you can't squash, or just to talk about the latest in ML—my inbox is always open.
+
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]([https://www.linkedin.com/in/aryan-saini-894979343/])
+[ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:[aryansaini98765@gmail.com])
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
