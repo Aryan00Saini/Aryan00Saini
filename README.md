@@ -28,11 +28,12 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 ---
 
 ### 📈 GitHub Stats:
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan00Saini&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan00Saini27&layout=compact&theme=radical)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanSaini27&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSaini27&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 ---
 
 ### 🏆 Beyond the Code
