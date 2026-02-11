@@ -37,12 +37,16 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 
 ---
 
-### 📊 Profile Summary
+### 🏆 Achievements & Streaks
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan00Saini&theme=radical" alt="profile details" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan00Saini&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan00Saini&theme=radical&utcOffset=8" alt="productive time" />
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aryan00Saini&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 </div>
 
 ### 🤝 Let's Chat!
