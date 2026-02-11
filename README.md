@@ -46,7 +46,7 @@ Currently, I'm deep-diving into **Full Stack Development** and **Machine Learnin
 
 ---
 
-### 🏆 Stats & Vibes
+### 🏆 Stats 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan00Saini&theme=radical&hide_border=true" alt="GitHub Streak" />
